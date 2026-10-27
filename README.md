@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shahin
+# Hi 👋, I'm Shifas
 
 ### 💻 MERN Stack Developer | BCA Graduate
 
