@@ -1,86 +1,9 @@
-# Hi 👋, I'm Shifas
+# 💫 About Me:
+👋 Hi, I'm Muhammed Shifas, an aspiring Full-Stack Developer passionate about creating modern, responsive, and user-friendly web applications. 💻 I work with HTML, CSS, Bootstrap, JavaScript, and React, while continuously improving my development skills and problem-solving abilities. 🚀 I enjoy turning ideas into real-world projects, exploring new technologies, and growing as a developer every day. 🌱<br>
 
-### 💻 MERN Stack Developer | BCA Graduate
 
-I'm a passionate web developer interested in building modern and responsive web applications using the **MERN Stack**.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shif4s._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shifas-ka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shifaska51@gmail.com) 
 
-Currently, I'm improving my development skills by working on projects and learning new technologies.
-
----
-
-## 🚀 About Me
-
-* 🎓 BCA Graduate
-* 💻 MERN Stack Developer
-* 🌱 Currently improving my React.js and full-stack development skills
-* 🔨 Building frontend and full-stack projects
-* 📚 Always learning new technologies
-* 🎯 Looking for opportunities to grow as a developer
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Bootstrap
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Database
-
-* MongoDB
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-
----
-
-## 📌 Featured Projects
-
-### 🛍️ Noon E-Commerce Website Clone
-
-A frontend e-commerce website inspired by Noon, currently under development using HTML and CSS.
-
-### 🛒 ShopEase
-
-An e-commerce web application built with React.js featuring product listing, search, and shopping-related functionality.
-
-### 🚌 Smart Bus Tracking
-
-An Android application designed to help users view bus routes and arrival information.
-
----
-
-## 📈 Currently Learning
-
-```text
-React.js
-Node.js
-Express.js
-MongoDB
-REST APIs
-Git & GitHub
-Full Stack Development
-```
-
----
-
-## 📫 Connect With Me
-
-**GitHub:** [shifaska25-droid](https://github.com/shifaska25-droid)
-
----
-
-⭐ Thanks for visiting my profile!
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
